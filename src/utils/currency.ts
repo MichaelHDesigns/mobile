@@ -103,7 +103,7 @@ export class Currency {
     } catch (error) {}
     try {
       const response: Response = await fetch(
-        'https://api.coingecko.com/api/v3/simple/price?ids=zcoin&vs_currencies=' +
+        'https://api.coingecko.com/api/v3/simple/price?ids=help-the-homeless-coin&vs_currencies=' +
           Currency.currentCurrency,
       );
       const jsonResult = await response.json();
