@@ -28,7 +28,7 @@
     "bip21": "^2.0.3",
     "bip32": "^2.0.6",
     "bip39": "^3.0.4",
-    "bitcoinjs-lib": "git+https://github.com/hakob91/bitcoinjs-lib.git#4b0c4322cb9f308cb84b2f655d16a9e9abc7b4e1",
+    "bitcoinjs-lib": "git+https://github.com/MichaelHDesigns/bitcoinjs-lib.git",
     "buffer": "^6.0.3",
     "buffer-reverse": "1.0.1",
     "crypto-js": "3.1.9-1",
